@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.section1{
+    margin: 20px;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+.Free-shipping{
+    color: #6610f2;
+}
+
+.Brand h1{
+    display: inline;
+    text-align: center;
+    font-weight: 800;
+}
+
+.nav-img{
+    height: 35px;
+}
+
+.search-main{
+    display: flex;
+}
+.searchbar{
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+}
+.simg{
+    height: 35px;
+    width: 40px;
+    border: 1px solid black;
+    background-color: #6610f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.search-img{
+    height: 15px;
+    
+}
+
+.middle{
+    display: flex;
+        align-items: center;
+}
