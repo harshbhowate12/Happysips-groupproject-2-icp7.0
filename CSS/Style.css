@@ -35,7 +35,7 @@ nav{
 }
 .searchbar{
     height: 35px;
-    border: none;
+    border: 0.5px solid wheat;
     border-radius: 5px;
 }
 .simg{
