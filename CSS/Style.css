@@ -102,16 +102,6 @@ nav{
     margin-left: 30px;
 }
 
-
-
-body{
-    display: grid;
-    justify-content: center;
-    align-content: end;
-    min-height: 100vh;
-    background: #e8e8e8;
-}
-
 footer{
     padding: 50px 100px;
     position: relative;
@@ -209,7 +199,7 @@ footer .container .contact .info li span a{
 @media (max-width: 991px)
 {
     footer{
-        padding: 40px;
+        padding: 40px;  
     }
     footer .container {
         width: 100%;
@@ -223,6 +213,7 @@ footer .container .contact .info li span a{
 
 @media (max-width: 768px)
 {
+    
     footer .container {
         width: 100%;
         display: grid;
