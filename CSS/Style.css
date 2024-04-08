@@ -1,8 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-
 
 .section1{
     margin: 20px;
@@ -107,6 +107,7 @@
 .small-text{
     font-family: cursive;
     font-size: 20px;
+    font-weight: bolder;
 }
 .big-text{
     display: inline;
