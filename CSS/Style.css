@@ -3,12 +3,6 @@
     wheat
 */
 
-
-
-
-
-
-
 *{
     margin: 0;
     padding: 0;
@@ -61,6 +55,10 @@ nav{
     border: 0.5px solid wheat;
     border-radius: 5px 0px 0px 5px;
     padding: 5px;
+}
+.number a{
+    text-decoration: none;
+    color: wheat;
 }
 .simg{
     height: 35px;
