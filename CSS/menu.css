@@ -132,3 +132,36 @@ nav{
     font-size: 40px;
     color: black;
  }
+ .menu-img {
+    width: 200px;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+.heading-1 {
+       font-size: 30px;
+       padding-top: 20px;
+       text-align: center;
+       font-weight: bolder;
+}
+.desc-1 {
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn {
+    display: inline-block;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    padding: 0.8rem 3rem;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background-color: forestgreen;
+    box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
+    border-radius: 30px;
+    transition: 0.5s;
+}
