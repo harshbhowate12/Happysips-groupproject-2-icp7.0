@@ -1,26 +1,91 @@
 .main{
     background-color: #fff;
     width: 100%;
+    display: block;
 }
 .img-container{
-    margin-top: 100px;
-    margin-bottom: 0;
-    background: transparent;
-    color: rgb(0, 0, 0);
- }
- .ft{
+margin-top: 100px;
+margin-bottom: 0;
+background: transparent;
+color: rgb(0, 0, 0);
+}
+.ft{
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
-  }
-  .fruits_img{
-    width: 60%;
-    height: 300px;
-  }
-  .clr{
+    }
+.clr{
     font-family: "Caveat", cursive;
     color: black;
     font-size: 20px;
+    font-weight: bold;
+}
+.fruits_img{
+width: 60%;
+height: 300px;
+}
+.inputs-container{
+margin-top: 100px;
+margin-bottom: 0;
+padding-bottom: 20px;
+}
+.head{
+color: #000;
+}
+.input1{
+background: rgba(0, 0, 0, 0.792);
+padding: 15px 30px;
+width: 65%;
+margin: 20px 0;
+border: none;
+border-radius: 20px;
+outline: none;
+color: aliceblue;
+
+}
+::placeholder{
+font-size: 20px;
+color: rgb(190, 199, 159);
+}
+.user i{
+    position: absolute;
+    top: 195px;
+    right: 175px;
+    color: rgb(190, 199, 159);
+}
+.password{
+margin-bottom: 0;
+}
+.password i{
+    position: absolute;
+    top: 288px;
+    right: 175px;
+    color: rgb(190, 199, 159);
+}
+.buttons{
+margin-top: 20px;
+}
+.btn2{
+padding: 10px 30px;
+border: none;
+background-color: rgb(252 99 107);
+border-radius: 15px;
+font-size: 20px;
+color: #fff;
+margin-top: 20px;
+margin-right: 20px;
+}
+.rem{
+    color: black;
+    position: absolute;
+    right: 375px;
+    top: 335px;
   }
-
-
+  .forgot{
+    position: absolute;
+    right: 170px;
+    top: 335px;
+  }
+.bl{
+background: #405cf5;
+}
