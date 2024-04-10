@@ -1,0 +1,26 @@
+.main{
+    background-color: #fff;
+    width: 100%;
+}
+.img-container{
+    margin-top: 100px;
+    margin-bottom: 0;
+    background: transparent;
+    color: rgb(0, 0, 0);
+ }
+ .ft{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .fruits_img{
+    width: 60%;
+    height: 300px;
+  }
+  .clr{
+    font-family: "Caveat", cursive;
+    color: black;
+    font-size: 20px;
+  }
+
+
